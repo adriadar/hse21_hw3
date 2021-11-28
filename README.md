@@ -1,6 +1,7 @@
 # hse21_hw3
 
-## [Ссылка на Colab](https://colab.research.google.com/drive/1T0lwm7LsC2bvVK39SPjdDXIWkvy6BBpi?usp=sharing)
+## [Ссылка на python Colab](https://colab.research.google.com/drive/1T0lwm7LsC2bvVK39SPjdDXIWkvy6BBpi?usp=sharing)
+## [Ссылка на R Colab](https://colab.research.google.com/drive/1xkKC5tTboNHL587V-vRSWInRxinwAK1O?usp=sharing)
 
 
 ## Отчеты FastQC и MultiQC
@@ -27,6 +28,10 @@
 
 [SRR3414637](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414637_1_fastqc.html)
 ## Табличка
-
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/table.png)
 ## Графики DESeq2
-
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/heatmap.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/maplot.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot1.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot2.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot3.png)
