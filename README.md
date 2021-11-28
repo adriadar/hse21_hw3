@@ -16,10 +16,15 @@
 
 ### Ссылки на FastQC отчеты
 [SRR3414629](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414629_1_fastqc.html)
+
 [SRR3414630](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414630_1_fastqc.html)
+
 [SRR3414631](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414631_1_fastqc.html)
+
 [SRR3414635](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414635_1_fastqc.html)
+
 [SRR3414636](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414636_1_fastqc.html)
+
 [SRR3414637](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/SRR3414637_1_fastqc.html)
 ## Табличка
 
