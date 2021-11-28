@@ -1,6 +1,6 @@
 # hse21_hw3
 
-## [Ссылка на Colab]()
+## [Ссылка на Colab](https://colab.research.google.com/drive/1T0lwm7LsC2bvVK39SPjdDXIWkvy6BBpi?usp=sharing)
 
 
 ## Отчеты FastQC и MultiQC
