@@ -32,6 +32,7 @@
 ## Графики DESeq2
 ![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/heatmap.png)
 ![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/maplot.png)
-![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot1.png)
-![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot2.png)
-![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/countplot3.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/diff.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/g1.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/g2.png)
+![](https://github.com/adriadar/hse21_hw3/blob/main/img%20and%20reports/g3.png)
